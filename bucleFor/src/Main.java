@@ -22,9 +22,11 @@ public class Main {
         }
     }
 }
+String user = config[XPROD][CUSER];
 /*
 
 necesitas usar 2 bucles ...
+
 Ejercicios 4 minutos, 4 minutos, 10minutos
 
 n = 4;
